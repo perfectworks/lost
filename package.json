@@ -1,0 +1,25 @@
+{
+  "name": "lost",
+  "version": "0.0.0",
+  "description": "Cache everything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/perfectworks/lost.git"
+  },
+  "keywords": [
+    "cache",
+    "lru-cache",
+    "redis",
+    "memorize"
+  ],
+  "author": "perfectworks <perfectworks@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perfectworks/lost/issues"
+  },
+  "homepage": "https://github.com/perfectworks/lost"
+}
